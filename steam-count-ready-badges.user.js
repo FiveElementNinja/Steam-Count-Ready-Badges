@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Steam Count Ready Badges
 // @namespace    https://github.com/FiveElementNinja/Steam-Count-Ready-Badges
-// @version      0.3
+// @version      0.4
 // @description  Shows how many badges you have waiting to be crafted on the badges page
 // @author       Five Element Ninja (@FivElementNinja)
 // @match        *://steamcommunity.com/id/*/badges*
